@@ -38,4 +38,4 @@ int main() {
 
 ## Project Statement
 
-For more details, refer to the [project statement](es.subject.pdf).
+For more details, refer to the [subject](es.subject.pdf).
